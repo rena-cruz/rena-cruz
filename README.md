@@ -16,6 +16,8 @@ Atualmente estou aprendendo
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rena-cruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-cruz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ 
+<img align="top" width="48%" src="https://www.codewars.com/users/rena-cruz/badges/small" />
+ 
 ##
  
