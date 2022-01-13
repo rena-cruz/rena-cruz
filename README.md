@@ -17,6 +17,8 @@ Atualmente estou aprendendo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-cruz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
+![Snake animation](https://github.com/rena-cruz/rena-cruz/blob/output/github-contribution-grid-snake.svg)  
+  
 <img align="top" width="48%" src="https://www.codewars.com/users/rena-cruz/badges/small" />
  
 ##
