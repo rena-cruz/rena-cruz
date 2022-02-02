@@ -1,6 +1,17 @@
-# Olá!
+<div>
+<h3 align="center">Olá, bem vindo(a) ao meu Github! 😄</h3>
+<hr>
+<br>
+<p>
+• Análise e Desenvolvimento de Sistemas - Anhanguera, 2° Periodo.  
+</p>
+<p> 
+• Ribeirão Preto/ SP, Brasil.
+</p>
+<p>
+• Atualmente estou aprendendo
+</p>
 
-Atualmente estou aprendendo
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
