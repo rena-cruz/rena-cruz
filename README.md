@@ -1,12 +1,9 @@
-<div>
 <h3 align="center">Olá, bem vindo(a) ao meu Github! 😄</h3>
-<hr>
-<br>
 <p>
-• Análise e Desenvolvimento de Sistemas - Anhanguera, 2° Periodo.  
+• Estou cursando Análise e Desenvolvimento de Sistemas - Anhanguera, 2° Periodo.  
 </p>
 <p>
-• Atualmente estou aprendendo
+• Fiz alguns cursos e projetos com as seguintes tecnologias. 
 </p>
 
 <div style="display: inline_block"><br>
@@ -16,7 +13,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
 
 ##
 
