@@ -5,9 +5,6 @@
 <p>
 • Análise e Desenvolvimento de Sistemas - Anhanguera, 2° Periodo.  
 </p>
-<p> 
-• Ribeirão Preto/ SP, Brasil.
-</p>
 <p>
 • Atualmente estou aprendendo
 </p>
