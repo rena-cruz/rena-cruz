@@ -1,8 +1,5 @@
 <h3 align="center">Olá, bem vindo(a) ao meu Github! 😄</h3>
 <p>
-• Estou cursando Análise e Desenvolvimento de Sistemas - Anhanguera, 4° Periodo.  
-</p>
-<p>
 • Fiz alguns cursos e projetos com as seguintes tecnologias. 
 </p>
 
